@@ -277,7 +277,7 @@ PrefabInstance:
     - target: {fileID: -3393059317818742671, guid: 939791d746528014ab288114acb1ce16, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 34f1793d0ba089d479494047f876d2c7, type: 2}
+      objectReference: {fileID: 2100000, guid: 3b5cc91c3bf8cf74391252247f52fb59, type: 2}
     - target: {fileID: 919132149155446097, guid: 939791d746528014ab288114acb1ce16, type: 3}
       propertyPath: m_Name
       value: DMT_Logo
